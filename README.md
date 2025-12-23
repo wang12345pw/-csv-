@@ -1,4 +1,4 @@
-推荐中转：https://xt.xiguadify.site/
+推荐中转：https://api.xgai.site/
 乾渊AI自动化软件开源分镜提示词
 首先感谢提示词制作人：道格大人
 模型推荐：claude-opus-4-5-20251101-thinking
